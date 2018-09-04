@@ -1,2 +1,2 @@
-# Littening-The-Party
+# Lighting Graphics
 Lighting for Graphics
